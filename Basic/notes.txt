@@ -1,0 +1,9 @@
+.java->>javac-->.class file (bytecode) 
+                                 \/
+                                      
+                     1.jvm(Windows) 2.jvm(Linux) 3.jvm(Mac)    
+                               Java Vertual Machine 
+                                   
+                                   JDK -->JRE + DT
+                                           !
+                                           JVM + LC
